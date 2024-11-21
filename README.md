@@ -1,4 +1,5 @@
 To deploy the application:
+Set .env file
 Make the script executable:
 ```bash
 mkdir scripts
